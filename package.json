@@ -1,9 +1,9 @@
 {
   "name": "action-char-count",
-  "version": "1.0.0", 
+  "version": "1.0.0",
   "private": true,
-  "description": "JavaScript Acion to count the number of characters.", 
-  "main": "index.js", 
+  "description": "JavaScript Acion to count the number of characters.",
+  "main": "index.js",
   "scripts": {
     "build": "ncc build index.js -o dist"
   },
