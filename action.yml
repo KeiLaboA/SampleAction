@@ -7,9 +7,9 @@ inputs:
   patterns:
     description: 'Glob patterns to search files.'
     required: true
-  runs:
-    using: 'node12'
-    main: 'dist/index.js'
-  branding:
-    icon: message-square
-    color: blue
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
+branding:
+  icon: message-square
+  color: blue
